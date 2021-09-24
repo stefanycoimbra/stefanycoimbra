@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I'm Stéfany Coimbra! 👋
 
 <!--
 **stefanycoimbra/stefanycoimbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+I am a student of Computer Engeneerinf at Unifei, Itajubá-MG and I'm looking for new opportunities to learn.
 - 🔭 I’m currently working on a project of TinyML about COVID-19.
 - 🌱 I’m currently delving into Python.
 - 💬 I'm currently learning French and I'm always improving my English.
