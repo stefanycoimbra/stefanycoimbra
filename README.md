@@ -23,6 +23,10 @@ I am a student of Computer Engineering at Unifei, Itajubá-MG and I'm always loo
 - ✨ I'm looking to become a better professional and person and experiment new things.
 - ⚡ Fun fact: I'm a writer, love combat robots and pizza!
 
+<!--
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=stefanycoimbra)
+!-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stéfany-coimbra-23780a16b) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ster.coimbra/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/stefany.coimbra)
