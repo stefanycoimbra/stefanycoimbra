@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a student of Computer Engeneerinf at Unifei, Itajubá-MG and I'm looking for new opportunities to learn.
+I am a student of Computer Engineering at Unifei, Itajubá-MG and I'm always looking for new opportunities to learn and improve myself.
 - 🔭 I’m currently working on a project of TinyML about COVID-19.
 - 🌱 I’m currently delving into Python.
 - 💬 I'm currently learning French and I'm always improving my English.
