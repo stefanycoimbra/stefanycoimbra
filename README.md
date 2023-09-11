@@ -19,7 +19,7 @@ I am a student of Computer Engineering at Unifei, Itajubá-MG and I'm always loo
 - 🔭 I’m currently working on a project of TinyML about COVID-19.
 - 🌱 I’m currently delving into Python.
 - 💬 I'm currently learning French and I'm always improving my English.
-- 👯 I’m looking to collaborate on machine learning projects. 
+- 👯 I’m looking to collaborate on machine learning and information security projects. 
 - ✨ I'm looking to become a better professional and person and experiment new things.
 - ⚡ Fun fact: I'm a writer, love combat robots and pizza!
 
